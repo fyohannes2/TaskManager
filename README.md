@@ -15,10 +15,15 @@ As a user, the app is very intuitive. C.R.U.D.
 <img width="1427" alt="Screen Shot 2022-06-27 at 6 23 07 PM" src="https://user-images.githubusercontent.com/107531552/176046555-b384b96f-e6be-41e0-b208-c20354fbeeeb.png">
 
 ## What did I learn?
-How to use express.js, node.js and React to build a simple application How to connect MongoDB to an application using mongoose How to use the npm package manager.
+- How to use express.js, node.js and React to build a simple application. 
+- How to connect MongoDB to an application using mongoose.
+-  How to use the npm package manager.
 
 ## Biggest challenge:
-Deployment to Herolify and control flow with github. Trying to understand how all the files bootstrapped with create-react-app. Getting the MongoDB server up and running on my machine. Did I mention deployment?
+- Deployment to Herolify and control flow with github. 
+- Trying to understand how all the files bootstrapped with create-react-app. 
+- Getting the MongoDB server up and running on my machine. 
+- Did I mention deployment?
 
 ## Future ideas:
 - Extend app into a study planner with customisable options such as due date, subject, study category etc.
